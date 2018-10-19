@@ -1,0 +1,26 @@
+{
+  "name": "labexc1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReynirS/labExc1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReynirS/labExc1/issues"
+  },
+  "homepage": "https://github.com/ReynirS/labExc1#readme",
+  "devDependencies": {
+    "Express": "^3.0.1",
+    "express": "^4.16.4",
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  },
+  "dependencies": {}
+}
